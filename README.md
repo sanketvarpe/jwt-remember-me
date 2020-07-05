@@ -1,2 +1,2 @@
 # jwt-remeber-me
-remeber me/keep me logged in using JWT(JasonWebTokens)
+remeber me/keep me logged in using JWT(JsonWebTokens)
